@@ -1,3 +1,8 @@
+/* 
+Program for a Sieve of Eratosthenes. The sieve is an array of primes from 1 to a maximum number.
+The maximum number for the sieve is specified through the command line. Boundary cases 
+are included, so main only takes 2 aruments. The implementation of this is specified in sieve.c.
+ */
 
 #include <stdlib.h>
 #include <stdio.h>
